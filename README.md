@@ -62,4 +62,5 @@ GVM5BubbleLevel is one such tool: a dedicated digital level.
 ---
 
 ## 📝 License
-
+GNU AFFERO
+https://github.com/gvrubio/GVM5BubbleLevel/blob/main/LICENSE
