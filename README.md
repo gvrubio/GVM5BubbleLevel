@@ -38,7 +38,7 @@ GVM5BubbleLevel is one such tool: a dedicated digital level.
 | File                    | Description                        |
 | ----------------------- | ---------------------------------- |
 | **GVM5BubbleLevel.ino** | Main bubble level application      |
-| **splash.h**            | Contains your custom splash screen |
+| **splash.h**            | Contains my custom splash screen |
 | **README.md**           | Project documentation              |
 
 ---
