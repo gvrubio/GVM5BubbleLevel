@@ -1,5 +1,7 @@
 # GVM5BubbleLevel
 
+![PXL_20251203_181526372 RAW-01 COVER](https://github.com/user-attachments/assets/415d2be2-fddf-42ac-987c-849dc3ae87c9)
+
 **GVM5BubbleLevel** is a standalone bubble-level utility for the **M5Cardputer ADV**, created as part of the **GVM5Tools** collection — a suite of simple, focused programs built following the **Unix philosophy**:
 
 > *Do one thing, and do it well.*
@@ -7,6 +9,7 @@
 This application uses the Cardputer’s onboard IMU to present a smooth, visually intuitive bubble level with angle readouts, degree markers, and battery status.
 
 ---
+
 
 ## ✨ Features
 
